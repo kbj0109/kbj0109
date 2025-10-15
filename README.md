@@ -28,16 +28,21 @@
 
 ## 💌 Contact
 <div style="display: flex; flex-direction: column; gap: 8px;">
-  <a href="mailto:jay.bjkim0109@gmail.com" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/color/28/gmail.png" alt="gmail" width="20" style="margin-right: 6px;"/>
-    <span>jay.bjkim0109@gmail.com</span>
-  </a>
-  <a href="https://github.com/kbj0109" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
-    <img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="github" width="20" style="margin-right: 6px;"/>
-    <span>kbj0109</span>
-  </a>
+  <div style="display: flex; align-items: center;">
+    <a href="mailto:jay.bjkim0109@gmail.com" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"
+           style="margin-right: 8px; width: 95px;"/>
+      <span style="font-weight: 500; font-size: 15px;">jay.bjkim0109@gmail.com</span>
+    </a>
+  </div>
+  <div style="display: flex; align-items: center;">
+    <a href="https://github.com/kbj0109" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: inherit;">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"
+           style="margin-right: 8px; width: 95px;"/>
+      <span style="font-weight: 500; font-size: 15px;">kbj0109</span>
+    </a>
+  </div>
 </div>
-
 
 
 
