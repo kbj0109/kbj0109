@@ -63,7 +63,6 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=fff&style=for-the-badge)  
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=for-the-badge)
 
 
@@ -71,17 +70,16 @@
 ![RDBMS](https://img.shields.io/badge/-RDBMS-4479A1?logo=rdbms&logoColor=fff&style=for-the-badge)
 ![NoSQL](https://img.shields.io/badge/-NoSQL-47A248?logo=nosql&logoColor=fff&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=fff&style=for-the-badge)
 
 
 ### ☁️ Cloud & Infrastructure
+![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=fff&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?logo=amazon-aws&logoColor=white&style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?logo=nginx&logoColor=fff&style=for-the-badge)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?logo=serverless&logoColor=fff&style=for-the-badge)
 
 
 ### 🌐 Communication Methods
@@ -94,36 +92,32 @@
 
 
 ### 🧪 Testing
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=fff&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=fff&style=for-the-badge)
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?logo=junit5&logoColor=fff&style=for-the-badge)
 
 
 ### ⚙️ CI/CD + Version Control
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=000&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff&style=for-the-badge)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=fff&style=for-the-badge)
-![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=fff&style=for-the-badge)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/-Jenkins-1F3B73?logo=jenkins&logoColor=ffffff&style=for-the-badge)
 ![Atlassian](https://img.shields.io/badge/-Atlassian-0052CC?logo=atlassian&logoColor=fff&style=for-the-badge)
 
 
-
 ### 🧰 Others
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=fff&style=for-the-badge)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge)
 ![Slack](https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge)
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=fff&style=for-the-badge)
-![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=fff&style=for-the-badge)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=000&style=for-the-badge)
-![Claude](https://img.shields.io/badge/-Claude-101828?logo=anthropic&logoColor=fff&style=for-the-badge)
-![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=fff&style=for-the-badge)
+![Notion](https://img.shields.io/badge/-Notion-ffffff?logo=notion&logoColor=000000&style=for-the-badge&labelColor=ffffff&color=ffffff&border=000000)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge)
+![JWT](https://img.shields.io/badge/-JWT-6b4eff?logo=jsonwebtokens&logoColor=ffffff&style=for-the-badge)
+![Sentry](https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=fff&style=for-the-badge)
+![Claude](https://img.shields.io/badge/-Claude-ffffff?logo=anthropic&logoColor=ff6b00&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)
-
 
 
 ### 🖥️ OS
