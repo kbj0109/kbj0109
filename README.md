@@ -137,7 +137,7 @@
 <br>
 
 <details>
-  <summary>📊 My GitHub Stats (click to expand)</summary>
+    <summary><h3>📊 My GitHub Stats</h3></summary>
 
   <div style="display: flex; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=kbj0109&show_icons=true&theme=transparent&hide_rank=true" height="165"/>
