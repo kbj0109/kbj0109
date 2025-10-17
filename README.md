@@ -139,7 +139,7 @@
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=kbj0109&show_icons=true&theme=transparent&hide_rank=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbj0109&layout=compact&theme=transparent&size_weight=0.5&count_weight=0.5" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kbj0109&layout=compact&theme=transparent" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kbj0109&layout=compact&theme=transparent" height="165"/> -->
 </div>
 
 ---
@@ -147,3 +147,5 @@
 
 
 <!-- https://veggie-garden.tistory.com/19 참고 -->
+
+
